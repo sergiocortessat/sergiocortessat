@@ -1,6 +1,8 @@
-### Hi there 👋
+### GOOOOOOOD MORNIIIIIING WORLD! 👋
 
-![screenshot](./Screenshot.png)
+<p align="center">
+  <img width="100%" height="300" src="Screenshot.png">
+</p>
 
 > My name is Sergio Cortes Satizabal. I am a passionate about life, people and software.
 
