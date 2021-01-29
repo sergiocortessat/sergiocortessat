@@ -1,7 +1,7 @@
 ### GOOOOOOOD MORNIIIIIING WORLD! 👋
 
 <p align="center">
-  <img width="100%" height="300" src="Screenshot.png">
+  <img width="100%" height="auto" src="Screenshot.png">
 </p>
 
 > My name is Sergio Cortes Satizabal. I am a passionate about life, people and software.
@@ -47,7 +47,7 @@
 - In love with the all that surrounds us
 
 
-## Authors of this crazy technogolical and spiritual journey.
+## Author of this crazy technogolical and spiritual journey.
 
 👤 Sergio Cortes Satizabal
 
@@ -58,6 +58,7 @@
 ## 🤝 Things to see about me:
 
 -- Check my Bitcoin presentation: [Bitcoin](https://tlr-coworking.com/blog/cryptocurrencies-an-experiment-that-will-lead-to-a-revolution%f0%9f%92%b0%f0%9f%92%b5%f0%9f%92%aa/)
+
 -- Check this blog entry. Am proud of it and took me lots of pain to understand: [7 things I learned living in a hostel](https://medium.com/@sergiocortessatizabal/7-things-i-learned-living-in-a-hostel-293fa1638fd7)
 
 
