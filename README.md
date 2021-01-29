@@ -7,6 +7,8 @@
 
 > My name is Sergio Cortes Satizabal. I am passionate about life, people, and software.
 
+### You can contact me at sergiocortessat@gmail.com :email:
+
 ## About me
 
 - Full-Stack-Developer
