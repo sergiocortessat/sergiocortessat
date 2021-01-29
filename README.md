@@ -7,9 +7,9 @@
 ## About me
 
 - Full-Stack-Developer
-- Bussines Administrator Minora human literarum
+- Bussines Administrator Minora Humanora Literarum
 - English, Spanish, Portugues
-- Love to write on my spare time
+- Love to write on my spare time and think about life
 
 ## Technologies
 
@@ -22,7 +22,6 @@
 - Unit-Test
 - React
 
-
 ## Other Skills
 
 - Leadership
@@ -32,11 +31,9 @@
 - Project managment
 - Project development
 
-
 ## Special things about me
 
-- 
-- Philatronpist with a logical approach
+  Philatronpist with a logical approach
 - Passionate about technology and software
 - Passionate about cultures, languages, behaviours and communacation overall
 - Passionate about writting all sort of content. Technical and none Technical
