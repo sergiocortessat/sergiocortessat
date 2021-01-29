@@ -9,42 +9,42 @@
 
 ## About me
 
-Full-Stack-Developer
-Bussines Administrator Minora Humanora Literarum
-English, Spanish, Portugues
-Love to write in my spare time and think about life
+- Full-Stack-Developer
+- Bussines Administrator Minora Humanora Literarum
+- English, Spanish, Portugues
+- Love to write in my spare time and think about life
 
 ## Technologies
 
-Ruby
-Rails
-Python
-Django
-Javascript
-Systems (Linux - Windows)
-Unit-Test
-React
+- Ruby
+- Rails
+- Python
+- Django
+- Javascript
+- Systems (Linux - Windows)
+- Unit-Test
+- React
 
 ## Other Skills
 
-Leadership
-Bitcoin and Blockchain knowledge certificated
-Knowledge on cryptos and Fintech Markets
-Blog writer
-Project management
-Project development
+- Leadership
+- Bitcoin and Blockchain knowledge certificated
+- Knowledge on cryptos and Fintech Markets
+- Blog writer
+- Project management
+- Project development
 
 ## Special things about me
 
-Passionate about technology and software
-Passionate about cultures, languages, behaviors, and communications overall
-Passionate about writing all sorts of content. Technical and none Technical
-Had the fortune to live in 5 different countries over 2 continents
-Wishing to learn someday the future Italian
-Empath and Campaigner. Always seeking a collective benefit.
-Personal adviser of dozens of friends
-Life conversations
-In love with all that surrounds us
+- Passionate about technology and software
+- Passionate about cultures, languages, behaviors, and communications overall
+- Passionate about writing all sorts of content. Technical and none Technical
+- Had the fortune to live in 5 different countries over 2 continents
+- Wishing to learn someday the future Italian
+- Empath and Campaigner. Always seeking a collective benefit.
+- Personal adviser of dozens of friends
+- Life conversations
+- In love with all that surrounds us
 
 
 ## Author of this crazy technogolical and spiritual journey.
