@@ -25,7 +25,7 @@
 ## Other Skills
 
 - Leadership
-- Bitcoin and Blockchain knaoeldge certificated
+- Bitcoin and Blockchain knowledge certificated
 - Knowledge on critpos and Fintech Markets
 - Blog writter
 - Project managment
@@ -56,6 +56,7 @@
 ## 🤝 Things to see about me:
 
 -- Check my Bitcoin presentation: [Bitcoin](https://tlr-coworking.com/blog/cryptocurrencies-an-experiment-that-will-lead-to-a-revolution%f0%9f%92%b0%f0%9f%92%b5%f0%9f%92%aa/)
+-- Check this blog entry. Am proud of it and took me lots of pain to understand: [7 things I learned living in a hostel](https://medium.com/@sergiocortessatizabal/7-things-i-learned-living-in-a-hostel-293fa1638fd7)
 
 
 ## 📝 License
