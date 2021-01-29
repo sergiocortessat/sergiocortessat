@@ -69,4 +69,4 @@
 ### HAKUNA MATATA 
 
 License Copyright (c) 2021 sergiocortessat 
-Permission is hereby granted, free of charge, to any person reading this to take a deep breath. Enjoy all that surrounds you. We are all life going through this river. So just make sure you notice the beautiful dichotomy that life gives us
+Permission is hereby granted, free of charge, to any person reading this to take a deep breath. Enjoy all that surrounds you. We are all forms of life going through this river. So just make sure you notice lifes beautiful dichotomy.
