@@ -12,7 +12,7 @@
 ## About me
 
 - Full-Stack-Developer
-- Bussines Administrator Minora Humanora Literarum
+- Bussines Administrator Magna Cum Laude with human relations emphasis (Minora humaniorum litterarum)
 - English, Spanish, Portugues
 - Love to write in my spare time and think about life
 
@@ -30,7 +30,7 @@
 ## Other Skills
 
 - Leadership
-- Bitcoin and Blockchain knowledge certificated
+- Bitcoin and Blockchain knowledge certificate
 - Knowledge on cryptos and Fintech Markets
 - Blog writer
 - Project management
@@ -42,7 +42,7 @@
 - Passionate about cultures, languages, behaviors, and communications overall
 - Passionate about writing all sorts of content. Technical and none Technical
 - Had the fortune to live in 5 different countries over 2 continents
-- Wishing to learn someday the future Italian
+- Wishing to learn someday in the future the wonderful Italian language
 - Empath and Campaigner. Always seeking a collective benefit.
 - Personal adviser of dozens of friends
 - Life conversations
