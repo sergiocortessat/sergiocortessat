@@ -69,6 +69,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiocortessat&theme=dracula)](https://github.com/sergiocortessat-readme-stats)
 
+
+![](https://img.shields.io/badge/Microverse-blueviolet)
+
+![Profile views](https://gpvc.arturio.dev/RyelBanfield)
+
 ## 📝 License
 
 ### HAKUNA MATATA 
