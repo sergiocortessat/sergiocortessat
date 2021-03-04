@@ -9,6 +9,8 @@
 
 ### You can contact me at sergiocortessat@gmail.com :email:
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RyelBanfield)
+
 ## About me
 
 - Full-Stack-Developer
