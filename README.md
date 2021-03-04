@@ -9,7 +9,9 @@
 
 ### You can contact me at sergiocortessat@gmail.com :email:
 
+<p align="center">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergiocortessat&theme=dracula)](https://github.com/sergiocortessat)
+</p>
 
 ## About me
 
