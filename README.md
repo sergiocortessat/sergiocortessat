@@ -68,13 +68,13 @@
 
 -- Check this blog entry. Am proud of it and took me lots of pain to understand: [7 things I learned living in a hostel](https://medium.com/@sergiocortessatizabal/7-things-i-learned-living-in-a-hostel-293fa1638fd7)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergiocortessat&theme=dracula)](https://github.com/sergiocortessat)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiocortessat&theme=dracula)](https://github.com/sergiocortessat-readme-stats)
 
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 ![Profile views](https://gpvc.arturio.dev/RyelBanfield)
+
 
 ## 📝 License
 
