@@ -70,8 +70,9 @@
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sergiocortessat)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiocortessat&theme=dracula)](https://github.com/sergiocortessat-readme-stats)
-
+<p align = "center">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiocortessat&theme=dracula)](https://github.com/sergiocortessat-readme-stats)
+</p>
 
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
