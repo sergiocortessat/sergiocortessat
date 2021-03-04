@@ -9,7 +9,7 @@
 
 ### You can contact me at sergiocortessat@gmail.com :email:
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RyelBanfield)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sergiocortessat)
 
 ## About me
 
