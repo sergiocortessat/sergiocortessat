@@ -70,8 +70,7 @@
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sergiocortessat)
 
-<img align = "center">
-  src = "(https://github-readme-stats.vercel.app/api/top-langs/?username=sergiocortessat&theme=dracula)](https://github.com/sergiocortessat-readme-stats)"
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergiocortessat&theme=dracula)](https://github.com/sergiocortessat)
 
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
