@@ -11,7 +11,7 @@
 
 <p align="center">
   
-<img src=[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergiocortessat&theme=dracula)](https://github.com/sergiocortessat)>
+<img src= "https://github-readme-stats.vercel.app/api?username=sergiocortessat&theme=dracula)](https://github.com/sergiocortessat" >
 </p>
 
 ## About me
