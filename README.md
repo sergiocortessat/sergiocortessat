@@ -16,7 +16,7 @@
 
 ## WebPage
 
-- Portfolio: [WebPage](https://sergiocortessat.github.io/SCS_Portfolio/)
+- Check my portfolio webpage: [Sergio Cortes Satizabal](https://sergiocortessat.github.io/SCS_Portfolio/)
 
 ## About me
 
