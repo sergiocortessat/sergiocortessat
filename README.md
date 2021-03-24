@@ -8,15 +8,13 @@
 > My name is Sergio Cortes Satizabal. I am passionate about life, people, and software.
 
 ### You can contact me at sergiocortessat@gmail.com :email:
+### Checkmy portfolio webpage: [Sergio Cortes Satizabal](https://sergiocortessat.github.io/SCS_Portfolio/)
+
 
 <p align="center">
   
 <img src= "https://github-readme-stats.vercel.app/api?username=sergiocortessat&theme=dracula)](https://github.com/sergiocortessat" >
 </p>
-
-## WebPage
-
-- Check my portfolio webpage: [Sergio Cortes Satizabal](https://sergiocortessat.github.io/SCS_Portfolio/)
 
 ## About me
 
