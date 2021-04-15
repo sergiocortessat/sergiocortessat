@@ -10,7 +10,7 @@
 ### You can contact me at sergiocortessat@gmail.com :email:
 ### Checkmy portfolio webpage: [Sergio Cortes Satizabal](https://sergiocortessat.github.io/SCS_Portfolio/)
 ### Checkmy My Medium page: [Sergio Cortes Satizabal](https://medium.com/@sergiocortessatizabal/a-simple-way-to-set-devise-with-omniauth2-0-facebook-google-617a88999d8e)
-### Checkmy Linkedin: [Sergio Cortes Satizabal](https://www.linkedin.com/in/sergio-cortes-satizabal-3b452194/)
+
 
 
 <p align="center">
