@@ -65,7 +65,7 @@
 - GitHub: [@githubhandle](https://github.com/sergiocortessat)
 - Twitter: [@twitterhandle](https://twitter.com/sergiocortessat)
 - LinkedIn: [LinkedIn](https://linkedin.com/sergiocortessat)
-- Portfolio: [WebPage](https://sergiocortessat.github.io/SCS_Portfolio/)
+- Portfolio: [WebPage](https://sergiocortes.codes)
 
 ## 🤝 Things to see about me:
 
