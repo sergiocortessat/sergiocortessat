@@ -29,12 +29,13 @@
 
 - Ruby
 - Rails
+- React
+- Redux
 - Python
-- Django
 - Javascript
+- Bootstrap
 - Systems (Linux - Windows)
 - Unit-Test
-- React
 
 ## Other Skills
 
