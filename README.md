@@ -7,16 +7,19 @@
 
 > My name is Sergio Cortes Satizabal. I am passionate about life, people, and software.
 
-### You can contact me at sergiocortessat@gmail.com :email:
-### Checkmy portfolio webpage: [Sergio Cortes Satizabal](https://sergiocortessat.github.io/SCS_Portfolio/)
-### Checkmy My Medium page: [Sergio Cortes Satizabal](https://medium.com/@sergiocortessatizabal/a-simple-way-to-set-devise-with-omniauth2-0-facebook-google-617a88999d8e)
+### Connect with me:
 
+[![See my portfolio](https://img.shields.io/badge/--portfolio?label=Portfolio&logo=portfolio&style=social)](sergiocortes.codes) [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/sergiocortessat) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://linkedin.com/sergiocortessat) [![Send me email](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](mailto:sergiocortessat@gmail.com) [![See my angellist profile](https://img.shields.io/badge/--angellist?label=AngelList&logo=AngelList&style=social)](https://angel.co/u/sergio-cortes-satizabal) [![See me on medium](https://img.shields.io/badge/--medium?label=Medium&logo=medium&style=social)](https://medium.com/@sergiocortessatizabal) [![See my resume](https://img.shields.io/badge/--resume?label=Resume&logo=resume&style=social)](https://docs.google.com/document/d/1ceYZUjJyyr2tRFbnYzoLNJowETPmWlpKg8U_T5n8qT8/edit?usp=sharing)
+![Profile views](https://gpvc.arturio.dev/RyelBanfield)
 
+ |My github statistics|Streaks|My languages|
+|-|-|-|
+|[![Sergios github stats](https://github-readme-stats.vercel.app/api?username=sergiocortessat&show_icons=true&theme=dark&hide_title=true)](https://github.com/sergiocortessat)|![descholar-ceo](https://github-readme-streak-stats.herokuapp.com/?user=sergiocortessat&theme=dark)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiocortessat&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/sergiocortessat)
 
-<p align="center">
   
-<img src= "https://github-readme-stats.vercel.app/api?username=sergiocortessat&theme=dracula)](https://github.com/sergiocortessat" >
-</p>
+<!--<img src= "https://github-readme-stats.vercel.app/api?username=sergiocortessat&theme=dracula)](https://github.com/sergiocortessat" >
+</p>-->
+
 
 ## About me
 
@@ -58,30 +61,12 @@
 - Life conversations
 - In love with all that surrounds us
 
-
-## Author of this crazy technogolical and spiritual journey.
-
-👤 Sergio Cortes Satizabal
-
-- GitHub: [@githubhandle](https://github.com/sergiocortessat)
-- Twitter: [@twitterhandle](https://twitter.com/sergiocortessat)
-- LinkedIn: [LinkedIn](https://linkedin.com/sergiocortessat)
-- Portfolio: [WebPage](https://sergiocortes.codes)
-
 ## 🤝 Things to see about me:
 
 -- Check my Bitcoin presentation: [Bitcoin](https://tlr-coworking.com/blog/cryptocurrencies-an-experiment-that-will-lead-to-a-revolution%f0%9f%92%b0%f0%9f%92%b5%f0%9f%92%aa/)
 
 -- Check this blog entry. Am proud of it and took me lots of pain to understand: [7 things I learned living in a hostel](https://medium.com/@sergiocortessatizabal/7-things-i-learned-living-in-a-hostel-293fa1638fd7)
 
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sergiocortessat)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiocortessat&theme=dracula)](https://github.com/sergiocortessat-readme-stats)
-
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
-![Profile views](https://gpvc.arturio.dev/RyelBanfield)
 
 
 ## 📝 License
