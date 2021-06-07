@@ -39,6 +39,7 @@
 - Bootstrap
 - Systems (Linux - Windows)
 - Unit-Test
+- Databases
 
 ## Other Skills
 
