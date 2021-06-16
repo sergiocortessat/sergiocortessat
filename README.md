@@ -3,9 +3,9 @@
   <img width="90%" height="auto" src="Screenshot.png">
 </p>
 
-### GOOOOOOOD MORNIIIIIING WORLD! 👋
+### GOOD MORNING WORLD! 👋
 
-> My name is Sergio Cortes Satizabal. I am passionate about life, people, and software.
+> My name is Sergio Cortes Satizabal. I'm passionate about life, people, and software.
 
 ### Connect with me:
 
@@ -23,7 +23,7 @@
 
 ## About me
 
-- Full-Stack-Developer
+- Full-Stack developer
 - Bussines Administrator Magna Cum Laude with human relations emphasis (Minora humaniorum litterarum)
 - English, Spanish, Portugues
 - Love to write in my spare time and think about life
@@ -54,7 +54,7 @@
 
 - Passionate about technology and software
 - Passionate about cultures, languages, behaviors, and communications overall
-- Passionate about writing all sorts of content. Technical and none Technical
+- Passionate about writing all sorts of content. Technical and none technical
 - Had the fortune to live in 5 different countries over 2 continents
 - Wishing to learn someday in the future the wonderful Italian language
 - Empath and Campaigner. Always seeking a collective benefit.
