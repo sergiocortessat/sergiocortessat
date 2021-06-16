@@ -1,5 +1,4 @@
 <p align="center">
-
   <img width="90%" height="auto" src="Screenshot.png">
 </p>
 
@@ -12,20 +11,20 @@
 [![See my portfolio](https://img.shields.io/badge/--portfolio?label=Portfolio&logo=portfolio&style=social)](sergiocortes.codes) [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/sergiocortessat) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/sergiocortessat/) [![Send me email](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](mailto:sergiocortessat@gmail.com) [![See my angellist profile](https://img.shields.io/badge/--angellist?label=AngelList&logo=AngelList&style=social)](https://angel.co/u/sergio-cortes-satizabal) [![See me on medium](https://img.shields.io/badge/--medium?label=Medium&logo=medium&style=social)](https://medium.com/@sergiocortessatizabal) [![See my resume](https://img.shields.io/badge/--resume?label=Resume&logo=resume&style=social)](https://docs.google.com/document/d/1ceYZUjJyyr2tRFbnYzoLNJowETPmWlpKg8U_T5n8qT8/edit?usp=sharing)
 ![Profile views](https://gpvc.arturio.dev/RyelBanfield)
 
- |My github statistics|Streaks|My languages|
+|My github statistics|Streaks|My languages|
 |-|-|-|
-|[![Sergios github stats](https://github-readme-stats.vercel.app/api?username=sergiocortessat&show_icons=true&theme=dark&hide_title=true)](https://github.com/sergiocortessat)|![descholar-ceo](https://github-readme-streak-stats.herokuapp.com/?user=sergiocortessat&theme=dark)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiocortessat&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/sergiocortessat)
+|[![Sergio's github stats](https://github-readme-stats.vercel.app/api?username=sergiocortessat&show_icons=true&theme=dark&hide_title=true)](https://github.com/sergiocortessat)|![descholar-ceo](https://github-readme-streak-stats.herokuapp.com/?user=sergiocortessat&theme=dark)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiocortessat&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/sergiocortessat)
 
   
-<!--<img src= "https://github-readme-stats.vercel.app/api?username=sergiocortessat&theme=dracula)](https://github.com/sergiocortessat" >
-</p>-->
+<!-- <img src= "https://github-readme-stats.vercel.app/api?username=sergiocortessat&theme=dracula)](https://github.com/sergiocortessat" >
+</p> -->
 
 
 ## About me
 
 - Full-Stack developer
-- Bussines Administrator Magna Cum Laude with human relations emphasis (Minora humaniorum litterarum)
-- English, Spanish, Portugues
+- Business administrator Magna Cum Laude with human relations emphasis (Minora Humanoura litterarum)
+- English, Spanish, Portuguese
 - Love to write in my spare time and think about life
 
 ## Technologies
@@ -75,4 +74,4 @@
 ### HAKUNA MATATA 
 
 License Copyright (c) 2021 sergiocortessat 
-Permission is hereby granted, free of charge, to any person reading this to take a deep breath. Enjoy all that surrounds you. We are all forms of life going through this river. So just make sure you notice lifes beautiful dichotomy.
+Permission is hereby granted, free of charge, to any person reading this to take a deep breath. Enjoy all that surrounds you. We are all forms of life going through this river. So just make sure you notice life's beautiful dichotomy.
