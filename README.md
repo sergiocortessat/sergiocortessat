@@ -24,7 +24,7 @@ My name is Sergio Cortes Satizabal. A Full-Stack developer and business administ
 <br/>
 
 [![See my portfolio](https://img.shields.io/badge/--portfolio?label=Portfolio&logo=portfolio&style=social)](sergiocortes.codes) [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/sergiocortessat) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/sergiocortessat/) [![Send me email](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](mailto:sergiocortessat@gmail.com) [![See my angellist profile](https://img.shields.io/badge/--angellist?label=AngelList&logo=AngelList&style=social)](https://angel.co/u/sergio-cortes-satizabal) [![See me on medium](https://img.shields.io/badge/--medium?label=Medium&logo=medium&style=social)](https://medium.com/@sergiocortessatizabal) [![See my resume](https://img.shields.io/badge/--resume?label=Resume&logo=resume&style=social)](https://docs.google.com/document/d/1ceYZUjJyyr2tRFbnYzoLNJowETPmWlpKg8U_T5n8qT8/edit?usp=sharing)
-![Profile views](https://gpvc.arturio.dev/sergiocortessat)
+<!-- ![Profile views](https://gpvc.arturio.dev/sergiocortessat) -->
 
 <br/>
 
