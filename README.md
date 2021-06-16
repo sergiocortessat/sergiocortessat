@@ -8,7 +8,7 @@
 <br/>
 
 <h3 align="center">
-My name is Sergio Cortes Satizabal. A Full-Stack developer passionate about life, people, and technology.
+My name is Sergio Cortes Satizabal. A Full-Stack developer and business administrator passionate about life, people, and technology.
 </h3>
 <br/>
 
@@ -108,7 +108,6 @@ const Sergio = {
 -- Check my Bitcoin presentation: [Bitcoin](https://tlr-coworking.com/blog/cryptocurrencies-an-experiment-that-will-lead-to-a-revolution%f0%9f%92%b0%f0%9f%92%b5%f0%9f%92%aa/)
 
 -- Check this blog entry. Am proud of it and took me lots of pain to understand: [7 things I learned living in a hostel](https://medium.com/@sergiocortessatizabal/7-things-i-learned-living-in-a-hostel-293fa1638fd7)
-
 
 
 ## 📝 License
