@@ -12,6 +12,8 @@ My name is Sergio Cortes Satizabal. A Full-Stack developer and business administ
 </h3>
 <br/>
 
+
+
 <h2 align='center'><strong>Technical-stack</strong></h2>
 <br/>
 
