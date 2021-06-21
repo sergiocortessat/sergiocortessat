@@ -7,7 +7,6 @@
 </h1>
 <br/>
 
-
 <h3 align="center">
 My name is Sergio Cortes Satizabal. A Full-Stack developer and business administrator passionate about life, people, and technology.
 </h3>
