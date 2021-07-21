@@ -1,3 +1,4 @@
+<meta property="og:image" content="github.jpg">
 <p align="center">
   <img width="100%" height="auto" src="github.jpg">
 </p>
