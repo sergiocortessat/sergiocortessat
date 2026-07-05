@@ -9,7 +9,7 @@
 <br/>
 
 <h3 align="center">
-My name is Sergio Cortes Satizabal. A Frontend developer and business administrator passionate about life, people, and technology.
+My name is Sergio Cortes Satizabal. A Senior Frontend Engineer and business administrator passionate about life, people, and technology.
 </h3>
 <br/>
 
